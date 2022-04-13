@@ -20,7 +20,11 @@ Screenshot:
 
 ## Requirements
 
-This GUI requires [AutoHotkey v2](https://www.autohotkey.com/v2/).
+- You must have [AutoHotkey v2](https://www.autohotkey.com/v2/) installed.
+
+- You must have [wkhtmltopdf](https://wkhtmltopdf.org/) installed and `wkhtmltopdf` needs to be accessible.
+
+On Windows, add `C:\...\wkhtmltopdf\bin` to your PATH (replace "..." with proper location).
 
 ## How to Run
 
